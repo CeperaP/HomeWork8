@@ -56,7 +56,7 @@ int[,] Multip(int[,] A, int[,] B)
     return multi;
 }
 
-const int ROWS = 3;
+const int ROWS = 4;
 const int COLUMS = 4;
 const int LEFT_RANGE = 0;
 const int RIGHT_RANGE = 10;
